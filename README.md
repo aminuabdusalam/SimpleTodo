@@ -4,7 +4,7 @@
 
 Submitted by: **Aminu Abdusalam**
 
-Time spent: **10** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
